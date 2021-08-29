@@ -9,6 +9,15 @@ body
     justify-content: center;
     align-items: center;
 }
+h1
+{
+	position: absolute;
+	top: 15%;
+	padding: 6px 43px;
+	color: #fff;
+	font-size: 1.7rem;
+	text-align: center;
+}
 form
 {
     width: 330px;
